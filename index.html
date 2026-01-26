@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="PT-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://www.flaticon.com/br/icones-gratis/controle-de-video-game" title="controle de video game ícones">
+    <link rel="icon" href="img/controle game icon.png">
+    <link rel="stylesheet" href="style.css">
+    <title>Jogo</title>
+</head>
+<body>
+
+          <div class="card">
+        <h2>Jogo de Adivinhação</h2>
+
+        <div id="jogador1-area">
+            <input type="number" id="jogador1" placeholder="Jogador 1 escolha o número">
+            <button onclick="definirNumero()">Confirmar</button>
+        </div>
+
+        <div id="jogador2-area" style="display:none;">
+            <p id="mensagem"></p>
+            <input type="number" id="jogador2" placeholder="Escolha um número ">
+            <button onclick="jogar()">Tentar</button>
+        </div>
+
+        <p id="mensagem"></p>
+        <p id="contador"></p>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
