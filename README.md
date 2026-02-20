@@ -18,4 +18,4 @@ The game was created to practice logic, DOM manipulation, and basic front-end de
 - **CSS3** – Styling and layout  
 - **JavaScript** – Game logic and interactions  
 
-
+https://franciellyvicente.github.io/Game/
