@@ -1,21 +1,27 @@
 # 🎮 Number Guessing Game
 
-This project is a simple and interactive **Number Guessing Game** developed using **HTML, CSS, and JavaScript**.  
-The game was created to practice logic, DOM manipulation, and basic front-end development concepts.
+Jogo de adivinhação de números simples e interativo, desenvolvido para praticar lógica, manipulação do DOM e conceitos básicos de front-end.
 
-## 🕹️ How the Game Works
+🔗 **Demo:** [franciellyvicente.github.io/Game](https://franciellyvicente.github.io/Game/)
 
-- Player 1 chooses a secret number.
-- Player 2 tries to guess the number.
-- The game provides feedback for each attempt.
-- A limited number of attempts is available.
-- The game ends when the player guesses correctly or runs out of attempts.
-- A restart button allows the game to be played again.
+## 🛠️ Tecnologias
 
-## 🚀 Technologies Used
+- HTML5
+- CSS3
+- JavaScript
 
-- **HTML5** – Page structure  
-- **CSS3** – Styling and layout  
-- **JavaScript** – Game logic and interactions  
+## 🎨 Design
 
-https://franciellyvicente.github.io/Game/
+- Paleta de cores em rosa, branco e preto
+- Ilustração de fundo na página
+- Tipografia: Poppins
+- Sem animações
+
+## 🕹️ Como funciona
+
+- Jogador 1 escolhe um número secreto
+- Jogador 2 tenta adivinhar o número
+- O jogo dá feedback a cada tentativa
+- Número limitado de tentativas disponíveis
+- O jogo termina quando o número é acertado ou as tentativas acabam
+- Botão de reiniciar permite jogar novamente
