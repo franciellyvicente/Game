@@ -15,7 +15,7 @@ Jogo de adivinhação de números simples e interativo, desenvolvido para pratic
 - Paleta de cores em rosa, branco e preto
 - Ilustração de fundo na página
 - Tipografia: Poppins
-- 
+  
 ## 🕹️ Como funciona
 
 - Jogador 1 escolhe um número secreto
